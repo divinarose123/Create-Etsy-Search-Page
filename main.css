@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    width: 763.2px;
+    height: 236px;
+}
+
+div#Theheader {
+    margin: 0 auto;
+    width: 763.2px;
+    height: 121px;
+}
+
+h1.etsyheader {
+    font-size: 40px;
+    font-weight: normal;
+    height: 121px;
+    box-sizing: border-box;
+    color: #F26F2D;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
